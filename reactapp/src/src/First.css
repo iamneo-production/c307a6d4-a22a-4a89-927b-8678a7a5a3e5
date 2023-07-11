@@ -1,0 +1,26 @@
+
+.b{
+    background-image:
+    url("https://gravitybooking.com/wp-content/uploads/2021/05/header-2.png");
+    background-size:cover ;
+    background-repeat:no-repeat;
+    height:1850px;
+    }
+    .yy{
+    margin-top: 45%;
+    height:50px;
+    width:190px;
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    background-color: rgb(238, 113, 11);
+ border-radius: 7px;
+   margin-left:450px;
+   font-weight: bold;
+  
+       
+        
+    }
+    body{
+        background-color: brown;
+    }
